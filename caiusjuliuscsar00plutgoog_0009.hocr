@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caiusjuliuscsar00plutgoog_0009.png"; bbox 0 0 3025 5025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 533 1938 2629 1988">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 533 1938 2629 1988">
+     <span class='ocr_line' id='line_1_1' title="bbox 533 1938 2629 1988; baseline 0 -16"><span class='ocrx_word' id='word_1_1' title='bbox 533 1952 540 1972; x_wconf 66' lang='grc' dir='ltr'><strong><em>ε</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 575 1938 2629 1988; x_wconf 60' lang='lat' dir='ltr'><strong>—-i——---÷——----—-—-——--———-—-—--——-—=-———-——-—&#39;—-—·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 687 1995 2473 2130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 687 1995 2473 2130">
+     <span class='ocr_line' id='line_1_2' title="bbox 687 1995 2473 2130; baseline 0 -22"><span class='ocrx_word' id='word_1_3' title='bbox 687 1995 1390 2110; x_wconf 63' lang='lat' dir='ltr'><strong>Ex&#39;c&#39;nDEBAT</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1455 2041 2009 2110; x_wconf 81' lang='lat' dir='ltr'>FIRMINUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 2072 2009 2473 2130; x_wconf 76' lang='lat' dir='ltr'>D1DOT‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 559 2231 2611 2302">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 559 2231 2611 2302">
+     <span class='ocr_line' id='line_1_3' title="bbox 559 2231 2611 2302; baseline -0 -24"><span class='ocrx_word' id='word_1_6' title='bbox 559 2231 773 2278; x_wconf 68' lang='lat' dir='ltr'>REGIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 814 2234 902 2278; x_wconf 85' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 951 2231 1430 2280; x_wconf 71' lang='lat' dir='ltr'>GALLIGARUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1465 2231 2022 2302; x_wconf 23' lang='lat' dir='ltr'>&#39;ACADEMIARUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 2064 2233 2611 2280; x_wconf 75' lang='lat' dir='ltr'><strong>TYPOGRAPHUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
